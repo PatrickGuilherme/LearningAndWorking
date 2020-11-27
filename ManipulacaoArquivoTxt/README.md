@@ -15,3 +15,4 @@ O projeto foi desenvolvido na linguagem de programação C# na plataforma .NET C
 O projeto concatena as principais funções mais usuarias no processo de manipulação de arquivos txt.
 
 ## :electric_plug: Funcionamento
+O projeto exibe como saida o console contendo as saidas das funções chamadas.

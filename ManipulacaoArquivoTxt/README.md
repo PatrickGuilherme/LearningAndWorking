@@ -1,7 +1,8 @@
 # Projeto ManipulaçãoArquivoTxt
 Projeto em que são executadas funções de manipulação de arquivos com extensão txt como gravar e ler os arquivos txt.
 
-:pencil:## Pré-requisitos
+:pencil:
+## Pré-requisitos
 Para a utilização deste projeto é necessário ter o ambiente de desenvolvimento integrado (IDE) Visual Studio 2019 ou posterior, e a plataforma .NET CORE 3.1 instalada na maquina.
 
 :floppy_disk:## Guia de instalação

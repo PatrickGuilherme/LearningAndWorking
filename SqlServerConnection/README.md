@@ -1,5 +1,5 @@
 # Projeto SqlServerConnection
-Projeto é feito conexão com banco de dados SQL Server.
+No Projeto é feito conexão com banco de dados SQL Server.
 
 ## :pencil: Pré-requisitos  
 Para a utilização deste projeto é necessário ter o ambiente de desenvolvimento integrado (IDE) Visual Studio 2019 ou posterior, e a plataforma .NET CORE 3.1 instalada na maquina.

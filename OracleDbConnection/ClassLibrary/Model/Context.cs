@@ -26,7 +26,7 @@ namespace ClassLibrary
             //Conexão utilizando sql server
             optionsBuilder.UseOracle(
                 //Usuario da conexão (no oracle o usuario inicia com C##)
-                "User Id=NOME_USUARIO;" +
+                "User Id=USUARIO_CONEXAO;" +
                 //Senha do banco
                 "Password=SENHA_USUARIO;" +
                 //Nome do banco de dados

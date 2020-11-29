@@ -8,6 +8,7 @@ namespace ClassLibrary
         //Atributos ligados ao banco de dados
         public DbSet<Course> Course { get; set; }
         public DbSet<Student> Student { get; set; }
+	public DbSet<StudentToCourse> StudentToCourse { get; set; }
 
         /// <summary>
         /// Inicia a criação do banco se não existir o banco
